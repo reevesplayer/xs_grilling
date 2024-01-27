@@ -1,0 +1,17 @@
+Strings = {
+    no_cheating = 'Come on now, no cheating!',
+    setting_up_grill = 'Setting up grill...',
+    use_grill = 'Use grill',
+    cancelled_action = 'Cancelled action',
+    cancelled_action_desc = 'You cancelled the action.',
+    pickup_grill = 'Pick up grill',
+    packing_up_grill = 'Packing up grill...',
+    grill_in_use = 'grill in use',
+    grill_in_use_desc = 'This grill is already in use!',
+    too_far = 'Too far',
+    too_far_desc = 'You are too far away from the grill!',
+    no_items = 'No items',
+    no_items_desc = 'You do not have the required items to craft at this grill!',
+    crafting_menu = 'Crafting Menu',
+    crafting_drug = 'Crafting drug...',
+}

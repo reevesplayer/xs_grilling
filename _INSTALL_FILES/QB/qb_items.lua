@@ -1,0 +1,2 @@
+small_bbq                   = { name = 'small_bbq', label = 'Small BBQ', weight = 1200, type = 'item', image = 'small_bbq.png', unique = false, useable = true, shouldClose = true, combinable = nil, description = 'This is a small grill' },
+large_bbq                   = { name = 'large_bbq', label = 'Large BBQ', weight = 1200, type = 'item', image = 'large_bbq.png', unique = false, useable = true, shouldClose = true, combinable = nil, description = 'This is a large grill' },
